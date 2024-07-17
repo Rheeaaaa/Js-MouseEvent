@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+.page1{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(105, 137, 148, 0.863);
+}
+
+.page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(49, 77, 86);
+    color: black;
+
+}
+
+.page2 h1{
+    font-size: 40vw;
+}
+
+.page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(111, 153, 167);
+}
+
+.page4{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.string{
+    width: 100%;
+    height: 200px;
+    background-color: rebeccapurple;
+
+}
